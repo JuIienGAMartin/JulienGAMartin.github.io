@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memes with sexualized marmots | The M.A.D. lab</title>
+    <link>/cens_meme/</link>
+      <atom:link href="/cens_meme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Memes with sexualized marmots</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Julien GA Martin</copyright>
+    <image>
+      <url>/media/icon_hu7d068ed1bf5378934f15b005350ee472_16136_512x512_fill_lanczos_center_3.png</url>
+      <title>Memes with sexualized marmots</title>
+      <link>/cens_meme/</link>
+    </image>
+    
+  </channel>
+</rss>
