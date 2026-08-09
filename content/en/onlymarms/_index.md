@@ -67,9 +67,7 @@ The $ONLYMARMS coin is a testament to the power of community and the love for ma
 
 ## The meme gallery
 
-Here are some of the creative memes developed (sometimes with AI) by the community to convey the message, grab attention and have fun while supporting research. Some memes have sexualized the marmots (adding bikinis and suggestive poses) are not presented here[.](/cens_meme)
-
-A lot of the images wer AI generated 
+Here are some of the creative memes developed (a lot with AI) by the community to convey the message, grab attention and have fun while supporting research. Some memes have sexualized the marmots (adding bikinis and suggestive poses) are not presented here[.](/cens_meme)
 
 <center>
 {{< gallery album = "onlymarms_meme" order = "desc">}}
