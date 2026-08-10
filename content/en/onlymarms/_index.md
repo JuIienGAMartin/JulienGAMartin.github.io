@@ -57,7 +57,7 @@ https://www.courrierinternational.com/stories/biodiversite-onlymarms-des-marmott
 ## The meme coin
 
 It has been a crazy ride since we started [OnlyMarms](https://onlyfans.com/onlymarms). The media attention has been intense and worldwide.
-The meme coin community discovered and loved the story so much that they decided to create a meme coin called $ONLYMARMS. The coin is now available on [pump.fun](https://pump.fun/coin/HBrfYZgeLKdSvBBGnGkvAK4563pq8oBGpgNFAaespump) and has already raised over $14K in donations for marmot research efforts.
+The meme coin community discovered and loved the story so much that they decided to create a meme coin called $ONLYMARMS. The coin is now available on [pump.fun](https://pump.fun/coin/HBrfYZgeLKdSvBBGnGkvAK4563pq8oBGpgNFAaespump) and has already raised over $90K in donations for marmot research efforts.
 
 The $ONLYMARMS coin is a fun way to support marmot conservation and research. The funds raised will go directly to the Yellow-bellied Marmot Research Project, which is dedicated to studying marmots in their natural habitats.
 
