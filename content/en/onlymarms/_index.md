@@ -35,6 +35,8 @@ The [OnlyMarms](https://onlyfans.com/onlymarms) account attracted some donations
 ### Some of the media coverage
 In no particular order
 
+- 🇺🇸 The Guardian <https://www.theguardian.com/us-news/2026/aug/18/scientists-onlyfans-marmots-crypto>
+- 🇩🇪 IT-Boltwise <https://www.it-boltwise.de/onlymarms-finanziert-marmot-studie-onlyfans-start-und-meme-coin-zuschuss.html>
 - 🇺🇸 Denver Gazette <https://denvergazette.com/2026/08/14/colorado-brewery-to-release-onlymarms-beer-to-benefit-marmot-research/>
 - 🇨🇳 TrueMii / China Times <https://truemii.chinatimes.com/content/20260810002528-265003>
 - 🇲🇽 El Sol de México <https://oem.com.mx/elsoldemexico/mundo/onlymarms-la-apuesta-de-cientificos-en-onlyfans-para-salvar-estudio-recortado-por-trump-31483580>
